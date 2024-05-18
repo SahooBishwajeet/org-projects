@@ -1,0 +1,27 @@
+[submodule "fluxicons"]
+	path = fluxicons
+	url = git@github.com:codegasms/fluxicons.git
+[submodule "flux"]
+	path = flux
+	url = git@github.com:codegasms/flux.git
+[submodule "azzian"]
+	path = azzian
+	url = git@github.com:codegasms/azzian.git
+[submodule "sha256"]
+	path = sha256
+	url = git@github.com:codegasms/sha256.git
+[submodule "appathon"]
+	path = appathon
+	url = git@github.com:codegasms/appathon.git
+[submodule "application-SIH-BachavSetu"]
+	path = application-SIH-BachavSetu
+	url = git@github.com:dot-config-IIITS/application-SIH-BachavSetu.git
+[submodule "rescue-SIH-BachavSetu"]
+	path = rescue-SIH-BachavSetu
+	url = git@github.com:dot-config-IIITS/rescue-SIH-BachavSetu.git
+[submodule "ensurance"]
+	path = ensurance
+	url = git@github.com:dot-config-IIITS/ensurance.git
+[submodule "root-ninja"]
+	path = root-ninja
+	url = git@github.com:ping0ms/root-ninja.git
