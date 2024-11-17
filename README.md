@@ -11,3 +11,7 @@
 | 7    | rescue-SIH-BachavSetu        | [rescue-SIH-BachavSetu](http://github.com/dot-config-IIITS/rescue-SIH-BachavSetu.git)         |
 | 8    | ensurance                    | [ensurance](http://github.com/dot-config-IIITS/ensurance.git)        |
 | 9    | root-ninja                   | [root-ninja](http://github.com/ping0ms/root-ninja.git)               |
+| 10   | chakravyuh                   | [chakravyuh](git@github.com:gdg-iiits/chakravyuh.git)                |
+| 11   | fund33          | [fund33](git@github.com:codegasms/web3ssh.git)               |
+| 12   | langsuit          | [langsuit](git@github.com:codegasms/langsuit.git)               |
+| 13   | sisyphus          | [sisyphus](git@github.com:codegasms/sisyphus.git)               |

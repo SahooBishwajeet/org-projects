@@ -25,3 +25,15 @@
 [submodule "root-ninja"]
 	path = root-ninja
 	url = git@github.com:ping0ms/root-ninja.git
+[submodule "sisyphus"]
+	path = sisyphus
+	url = git@github.com:codegasms/sisyphus.git
+[submodule "langsuit"]
+	path = langsuit
+	url = git@github.com:codegasms/langsuit.git
+[submodule "web3ssh"]
+	path = web3ssh
+	url = git@github.com:codegasms/web3ssh.git
+[submodule "chakravyuh"]
+	path = chakravyuh
+	url = git@github.com:gdg-iiits/chakravyuh.git
